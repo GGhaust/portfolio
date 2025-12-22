@@ -1,0 +1,1 @@
+This repository works as a library for many of the small personal projects i will develop or have developed, updates will be irregular.
